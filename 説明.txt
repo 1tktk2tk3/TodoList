@@ -1,0 +1,5 @@
+TodoListの作成
+
+JavaScriptを使い、空白に入力、下に内容を追加していくツール作成
+
+一部、jQueryを使用
